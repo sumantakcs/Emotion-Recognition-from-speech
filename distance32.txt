@@ -1,0 +1,141 @@
+
+
+Name of the file:	job1.wav
+
+0.162734	0.167536	1.109072	0.520516	0.717974	0.110043	0.347109	
+
+ the ascending order
+0.110043		0.162734		0.167536		0.347109		0.520516		0.717974		1.109072		
+ fear		rank1	
+ happiness		rank2	
+ sadness		rank3	
+ boredom		rank4	
+ surprise		rank5	
+ disgust		rank6	
+ anger		rank7	
+
+Name of the file:	job2.wav
+
+0.162734	0.167536	1.109072	0.520516	0.717974	0.110043	0.347109	
+
+ the ascending order
+0.110043		0.162734		0.167536		0.347109		0.520516		0.717974		1.109072		
+ fear		rank1	
+ happiness		rank2	
+ sadness		rank3	
+ boredom		rank4	
+ surprise		rank5	
+ disgust		rank6	
+ anger		rank7	
+
+Name of the file:	job3.wav
+
+0.162734	0.167536	1.109072	0.520516	0.717974	0.110043	0.347109	
+
+ the ascending order
+0.110043		0.162734		0.167536		0.347109		0.520516		0.717974		1.109072		
+ fear		rank1	
+ happiness		rank2	
+ sadness		rank3	
+ boredom		rank4	
+ surprise		rank5	
+ disgust		rank6	
+ anger		rank7	
+
+Name of the file:	lottery1.wav
+
+0.162734	0.167536	1.109072	0.520516	0.717974	0.110043	0.347109	
+
+ the ascending order
+0.110043		0.162734		0.167536		0.347109		0.520516		0.717974		1.109072		
+ fear		rank1	
+ happiness		rank2	
+ sadness		rank3	
+ boredom		rank4	
+ surprise		rank5	
+ disgust		rank6	
+ anger		rank7	
+
+Name of the file:	lottery2.wav
+
+0.162734	0.167536	1.109072	0.520516	0.717974	0.110043	0.347109	
+
+ the ascending order
+0.110043		0.162734		0.167536		0.347109		0.520516		0.717974		1.109072		
+ fear		rank1	
+ happiness		rank2	
+ sadness		rank3	
+ boredom		rank4	
+ surprise		rank5	
+ disgust		rank6	
+ anger		rank7	
+
+Name of the file:	lottery3.wav
+
+0.162734	0.167536	1.109072	0.520516	0.717974	0.110043	0.347109	
+
+ the ascending order
+0.110043		0.162734		0.167536		0.347109		0.520516		0.717974		1.109072		
+ fear		rank1	
+ happiness		rank2	
+ sadness		rank3	
+ boredom		rank4	
+ surprise		rank5	
+ disgust		rank6	
+ anger		rank7	
+
+Name of the file:	result1.wav
+
+0.162734	0.167536	1.109072	0.520516	0.717974	0.110043	0.347109	
+
+ the ascending order
+0.110043		0.162734		0.167536		0.347109		0.520516		0.717974		1.109072		
+ fear		rank1	
+ happiness		rank2	
+ sadness		rank3	
+ boredom		rank4	
+ surprise		rank5	
+ disgust		rank6	
+ anger		rank7	
+
+Name of the file:	result2.wav
+
+0.162734	0.167536	1.109072	0.520516	0.717974	0.110043	0.347109	
+
+ the ascending order
+0.110043		0.162734		0.167536		0.347109		0.520516		0.717974		1.109072		
+ fear		rank1	
+ happiness		rank2	
+ sadness		rank3	
+ boredom		rank4	
+ surprise		rank5	
+ disgust		rank6	
+ anger		rank7	
+
+Name of the file:	salary1.wav
+
+0.162734	0.167536	1.109072	0.520516	0.717974	0.110043	0.347109	
+
+ the ascending order
+0.110043		0.162734		0.167536		0.347109		0.520516		0.717974		1.109072		
+ fear		rank1	
+ happiness		rank2	
+ sadness		rank3	
+ boredom		rank4	
+ surprise		rank5	
+ disgust		rank6	
+ anger		rank7	
+
+Name of the file:	salary2.wav
+
+0.162734	0.167536	1.109072	0.520516	0.717974	0.110043	0.347109	
+
+ the ascending order
+0.110043		0.162734		0.167536		0.347109		0.520516		0.717974		1.109072		
+ fear		rank1	
+ happiness		rank2	
+ sadness		rank3	
+ boredom		rank4	
+ surprise		rank5	
+ disgust		rank6	
+ anger		rank7	

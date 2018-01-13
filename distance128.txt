@@ -1,0 +1,57 @@
+
+
+Name of the file:	anger1.wav
+
+0.103202	0.253773	0.570883	0.172363	0.158213	1.414771	0.659124	
+
+ the ascending order
+0.103202		0.158213		0.172363		0.253773		0.570883		0.659124		1.414771		
+ happiness		rank1	
+ disgust		rank2	
+ surprise		rank3	
+ sadness		rank4	
+ anger		rank5	
+ boredom		rank6	
+ fear		rank7	
+
+Name of the file:	anger2.wav
+
+0.103202	0.253773	0.570883	0.172363	0.158213	1.414771	0.659124	
+
+ the ascending order
+0.103202		0.158213		0.172363		0.253773		0.570883		0.659124		1.414771		
+ happiness		rank1	
+ disgust		rank2	
+ surprise		rank3	
+ sadness		rank4	
+ anger		rank5	
+ boredom		rank6	
+ fear		rank7	
+
+Name of the file:	anger3.wav
+
+0.103202	0.253773	0.570883	0.172363	0.158213	1.414771	0.659124	
+
+ the ascending order
+0.103202		0.158213		0.172363		0.253773		0.570883		0.659124		1.414771		
+ happiness		rank1	
+ disgust		rank2	
+ surprise		rank3	
+ sadness		rank4	
+ anger		rank5	
+ boredom		rank6	
+ fear		rank7	
+
+Name of the file:	anger4.wav
+
+0.103202	0.253773	0.570883	0.172363	0.158213	1.414771	0.659124	
+
+ the ascending order
+0.103202		0.158213		0.172363		0.253773		0.570883		0.659124		1.414771		
+ happiness		rank1	
+ disgust		rank2	
+ surprise		rank3	
+ sadness		rank4	
+ anger		rank5	
+ boredom		rank6	
+ fear		rank7	
